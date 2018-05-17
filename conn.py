@@ -11,3 +11,4 @@ from peewee import *
         db.connect()
         db.create_table([Student], safe = true)
         #asdasdasd
+        #asdasd1
