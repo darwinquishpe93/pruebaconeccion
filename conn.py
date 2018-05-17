@@ -9,4 +9,5 @@ from peewee import *
         database = db
     if __name__ = "__main__":
         db.connect()
-        db.create_table([Student], safe = true)   
+        db.create_table([Student], safe = true)
+        #asdasdasd
